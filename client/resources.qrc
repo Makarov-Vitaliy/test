@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>crosshair black.svg</file>
+        <file>crosshair red.svg</file>
+    </qresource>
+</RCC>
